@@ -3,7 +3,11 @@
 </span>
 
 <span style="font-family: Times New Roman; font-size: 13pt;">
-The Gravity Model, crafted by Casey in 1955, stands as the leading method among synthetic distribution models in transportation planning. It mirrors the concept of gravity in physics, where the flow of trips to and from zones is influenced by their activity level (akin to mass) and the distance between them (reflecting travel costs). This approach is particularly valuable as it can generate Origin-Destination matrices without needing prior data. Simple yet powerful, the Gravity Model is vital for analyzing and shaping transportation networks, especially useful in situations where historical travel data isn't available.
+The Gravity Model, introduced by Casey in 1955, remains the most widely used synthetic distribution model in transportation planning. Inspired by Newton’s law of gravitation, it assumes that the interaction between different zones is directly proportional to their activity levels—comparable to mass in physics—and inversely proportional to the impedance of travel, such as distance, time, or cost. This model provides a robust framework for estimating trip distribution patterns by predicting how many trips will be generated and attracted between different areas based on these factors.
+
+One of the key advantages of the Gravity Model is its ability to construct Origin-Destination (O-D) matrices without requiring historical travel data, making it especially useful in cases where empirical trip records are limited or unavailable. This predictive capability allows planners to assess the impact of new developments, infrastructure changes, or policy shifts on travel behavior. The model is widely applied in urban and regional transportation planning, offering valuable insights for optimizing traffic flow, improving public transit networks, and supporting sustainable mobility solutions.
+
+Furthermore, variations of the Gravity Model have been developed to enhance its accuracy, incorporating additional parameters such as socioeconomic characteristics, land use patterns, and behavioral factors influencing trip-making decisions. As transportation networks evolve with emerging technologies and shifting urban dynamics, the Gravity Model continues to be a fundamental tool for shaping efficient, data-driven mobility strategies.
 </span>
 
 ## Overview of the Method
